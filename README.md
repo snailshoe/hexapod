@@ -22,7 +22,7 @@ Make sure to check all of them to pick the one that works for you before committ
 I use the latest version of each part in my own hexapod, which is the one with the higher number at the end of its name.
 
 ## Compatible fan-made 3D printable parts
-Check out [this](https://github.com/almelnz2005/hexapod) repository which contains modified (but compatible) versions of the original parts which uses metal horns, M3 screws and seperated components to make the parts more 3D printer friendly. This is especially helpful if you are printing with material other than PLA and have issues with supports or shrinking.
+Check out [this](https://github.com/almelnz2005/hexapod) repository which contains modified (but compatible) versions of the original parts which uses metal horns, M3 screws and separated components to make the parts more 3D printer friendly. This is especially helpful if you are printing with material other than PLA and have issues with supports or shrinking.
 
 ## Wiring Diagram
 - Pimoroni Servo2040 (The newer, simpler, cheaper and recommended option):<br>
